@@ -1,0 +1,7 @@
+﻿  source.c
+D:\repos\Project1\Project1\source.c(168,16): warning C4144:  '>': 관계식을 switch 식으로 사용했습니다.
+D:\repos\Project1\Project1\source.c(202,9): warning C4476:  'scanf' : 서식 지정자에 알 수 없는 형식 필드 문자 '.'이(가) 있습니다.
+D:\repos\Project1\Project1\source.c(202,18): warning C4474:  'scanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\repos\Project1\Project1\source.c(202,18): message :  자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\repos\Project1\Project1\source.c(284,1): warning C4244:  '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project1.vcxproj -> D:\repos\Project1\Debug\Project1.exe
